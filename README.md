@@ -24,21 +24,21 @@ A premium e-commerce platform featuring an elegant design and seamless shopping 
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](images/Home-page.png)
+![Home Page](Images/Home-page.png)
 *Elegant landing page with brand introduction and luxury aesthetic*
 
 ### Product Showcase
-![Product Showcase](images/Product-showcase.png)
+![Product Showcase](Images/Product-showcase.png)
 *Hero section featuring luxury handbags and accessories*
 
-### Products Page
-![Products Page](images/Products-page.png)
+### Products (Front-End Only) Page
+![Products Page](Images/Products-page.png)
 *Comprehensive product catalog with filtering options and detailed product cards*
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework**: [Add your framework - React/Next.js/Vue/etc.]
-- **Styling**: CSS/SCSS with modern design principles
+- **Frontend Framework**: HTML5, CSS3, JavaScript
+- **Styling**: Custom CSS with modern design principles
 - **Deployment**: Vercel
 - **Design**: Luxury-focused UI with gold accent colors
 - **Responsive**: Mobile-first approach
@@ -54,7 +54,7 @@ Visit the live application: [lux-mart.vercel.app](https://lux-mart.vercel.app)
 - About LuxMart section highlighting the luxury experience
 - Navigation to all product categories
 
-### Products(Front-End Only)
+### Products
 - Complete product catalog
 - Advanced filtering system:
   - Category filters (All Products, Electronics, Fashion, Home & Living, Beauty)
@@ -64,6 +64,14 @@ Visit the live application: [lux-mart.vercel.app](https://lux-mart.vercel.app)
   - Detailed descriptions
   - Pricing information
   - Add to cart functionality
+
+### Featured Products
+- **Gold Chronograph Watch** - $299.99
+  - Elegant timepiece with sapphire crystal and genuine leather strap
+- **Leather Tote Bag** - $249.99
+  - Handcrafted Italian leather with gold-tone hardware
+- **Premium Wireless Earbuds** - $179.99
+  - Noise-cancelling with 24-hour battery life and charging case
 
 ## 🎨 Design Highlights
 
@@ -102,7 +110,7 @@ Visit the live application: [lux-mart.vercel.app](https://lux-mart.vercel.app)
 
 ```
 lux-mart/
-├── images
+├── images/
 ├── index.html
 ├── style.css
 ├── shop.html
@@ -125,8 +133,8 @@ This project is for academic and institutional use. Credit the developers if reu
 ## 👨‍💻 Author
 
 **Made by AbdulRafay**
-- GitHub: [@yourusername](https://github.com/abdulrafay1402)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/abdulrafay-imran)
+- GitHub: [@abdulrafay1402](https://github.com/abdulrafay1402)
+- LinkedIn: [Abdul Rafay Imran](https://linkedin.com/in/abdulrafay-imran)
 
 ## 🙏 Acknowledgments
 
