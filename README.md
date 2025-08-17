@@ -24,15 +24,15 @@ A premium e-commerce platform featuring an elegant design and seamless shopping 
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](images/home-page.png)
+![Home Page](images/Home-page.png)
 *Elegant landing page with brand introduction and luxury aesthetic*
 
 ### Product Showcase
-![Product Showcase](images/product-showcase.png)
+![Product Showcase](images/Product-showcase.png)
 *Hero section featuring luxury handbags and accessories*
 
 ### Products Page
-![Products Page](images/products-page.png)
+![Products Page](images/Products-page.png)
 *Comprehensive product catalog with filtering options and detailed product cards*
 
 ## 🛠️ Tech Stack
